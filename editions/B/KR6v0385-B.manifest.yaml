@@ -1,0 +1,218 @@
+canonical_identifier: bkk:krp/KR6v0385/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0385/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 合訂天台三聖二和詩集
+  identifiers:
+    krp: KR6v0385
+    cbeta: B14n0087
+    cbeta_old_id: B14n0087
+    authorityid: CA0006171
+    json_key: B0087
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B14/B14n0087.xml
+    old_id: B14n0087
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0385_000-B.yaml, hash: 'sha256:023185199321ed0dced1df3af6600e6010745fe1c35d7e2b5b61244136ba28ab'}
+  - {seq: 1, filename: KR6v0385_001-B.yaml, hash: 'sha256:1c29c6b14483e174736cf92d8af1b3e763aafcb131d9ac626d1924c48b8af21b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0385_000-B.markers.yaml, hash: 'sha256:561ff841e7421e09751bce311749352525b45f85caf9588092617a550f3aa776'}
+  - {seq: 1, role: markers, filename: assets/KR6v0385_001-B.markers.yaml, hash: 'sha256:64297fb0f98be144bc2986b3a88de26bac2811c5bf73ee7e6cde2401120ec228'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 鄭序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-3
+    span:
+    - front
+    - 288
+    - 288
+  label: 許序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-4
+    span:
+    - front
+    - 683
+    - 683
+  label: 戒顯序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-5
+    span:
+    - front
+    - 1038
+    - 1038
+  label: 石樹自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-6
+    span:
+    - front
+    - 1531
+    - 1531
+  label: 閭丘胤原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-7
+    span:
+    - front
+    - 2555
+    - 2555
+  label: 志南記
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-8
+    span:
+    - front
+    - 3881
+    - 3881
+  label: 清欲歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-9
+    span:
+    - front
+    - 4236
+    - 4236
+  label: 大佑書帖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-10
+    span:
+    - front
+    - 4238
+    - 4238
+  label: 陸放翁與明老改正寒山子詩帖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-11
+    span:
+    - front
+    - 4322
+    - 4322
+  label: 朱晦庵與南老索寒山子詩帖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-12
+    span:
+    - front
+    - 4588
+    - 4588
+  label: 淨戒序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-13
+    span:
+    - front
+    - 4896
+    - 4896
+  label: 梵琦序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-juan-start
+    span:
+    - body
+    - 0
+    - 47850
+  label: 合訂天台三聖二和詩集
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-1
+    span:
+    - body
+    - 29
+    - 29
+  label: 寒山詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-2
+    span:
+    - body
+    - 40177
+    - 40177
+  label: 豐干詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-3
+    span:
+    - body
+    - 40564
+    - 40564
+  label: 拾得詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-4
+    span:
+    - body
+    - 46622
+    - 46622
+  label: 附張序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-5
+    span:
+    - body
+    - 47024
+    - 47024
+  label: 新刻緣起
+  type: mulu
+  level: 1
+hash: sha256:b70e8a86b7975647b9669b3cb9e6e5f51e6db89eafd277f117dcb0a0ceabacca

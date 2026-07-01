@@ -1,0 +1,220 @@
+canonical_identifier: bkk:krp/KR6v0385/v1
+canonical_location: https://kanripo.org/bkk/KR6v0385/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 合訂天台三聖二和詩集
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B14/B14n0087.xml
+    old_id: B14n0087
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0385_000.yaml, hash: 'sha256:02ba425c415a6e11624cccb54cc58dae4937e21cf3338b9985dad04c89267879'}
+  - {seq: 1, filename: KR6v0385_001.yaml, hash: 'sha256:7a1705ac23cc5116b2186a3f19546ae496e6f6629a2f8c5c58edac7f7be470e3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0385_000.markers.yaml, hash: 'sha256:8c426c3a716fe9989cf2d259e3d2cc19dae06b0452fa39246e92cf81730c9c1a'}
+  - {seq: 1, role: markers, filename: assets/KR6v0385_001.markers.yaml, hash: 'sha256:16e5b7227e3ed2d38a20d27bd704db1f7a1193b9a17fbc2b7ad15c8e8d37651e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 鄭序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-3
+    span:
+    - front
+    - 288
+    - 288
+  label: 許序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-4
+    span:
+    - front
+    - 683
+    - 683
+  label: 戒顯序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-5
+    span:
+    - front
+    - 1038
+    - 1038
+  label: 石樹自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-6
+    span:
+    - front
+    - 1531
+    - 1531
+  label: 閭丘胤原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-7
+    span:
+    - front
+    - 2555
+    - 2555
+  label: 志南記
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-8
+    span:
+    - front
+    - 3881
+    - 3881
+  label: 清欲歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-9
+    span:
+    - front
+    - 4236
+    - 4236
+  label: 大佑書帖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-10
+    span:
+    - front
+    - 4238
+    - 4238
+  label: 陸放翁與明老改正寒山子詩帖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-11
+    span:
+    - front
+    - 4322
+    - 4322
+  label: 朱晦庵與南老索寒山子詩帖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-12
+    span:
+    - front
+    - 4588
+    - 4588
+  label: 淨戒序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0385_B_000-mulu-13
+    span:
+    - front
+    - 4896
+    - 4896
+  label: 梵琦序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-juan-start
+    span:
+    - body
+    - 0
+    - 47850
+  label: 合訂天台三聖二和詩集
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-1
+    span:
+    - body
+    - 29
+    - 29
+  label: 寒山詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-2
+    span:
+    - body
+    - 40177
+    - 40177
+  label: 豐干詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-3
+    span:
+    - body
+    - 40564
+    - 40564
+  label: 拾得詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-4
+    span:
+    - body
+    - 46622
+    - 46622
+  label: 附張序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0385_B_00１-mulu-5
+    span:
+    - body
+    - 47024
+    - 47024
+  label: 新刻緣起
+  type: mulu
+  level: 1
+hash: sha256:f99be0c12093bcd08d5e87bb3d49577cae0620dc4d410140c9c667193c3a499e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
