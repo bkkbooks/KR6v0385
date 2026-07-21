@@ -18,17 +18,17 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0385_000.yaml, hash: 'sha256:13389e046951c031fcd01632a1203f0399cce619d142e953e672e33301430012'}
+  - {seq: 0, filename: KR6v0385_000.yaml, hash: 'sha256:f2783d51c5b38d9cc344ba575d622e2a096f09c8b051a10e3f2e1d3129164586'}
   - {seq: 1, filename: KR6v0385_001.yaml, hash: 'sha256:e127898ea082811be21e08359306cfb27d0ad7454a84bfe51a36049289f649d0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0385_000.markers.yaml, hash: 'sha256:d2705b26abbf5b3000860aff403df23ffef9846ac79832dc0fc8ed26a4f8eed4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0385_000.markers.yaml, hash: 'sha256:cd722410a259a7e823a98c39b1ae05557e6e10e82d2c317e65fa8b8867048373'}
   - {seq: 1, role: markers, filename: assets/KR6v0385_001.markers.yaml, hash: 'sha256:68734a776d53fe3ce3d466ad3d272a0dd5db4f2e8c396c52cb80dcc5f21a51d3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 鄭序
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-3
     span:
-    - front
+    - body
     - 288
     - 288
   label: 許序
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-4
     span:
-    - front
+    - body
     - 683
     - 683
   label: 戒顯序
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-5
     span:
-    - front
+    - body
     - 1038
     - 1038
   label: 石樹自序
@@ -78,7 +78,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-6
     span:
-    - front
+    - body
     - 1531
     - 1531
   label: 閭丘胤原序
@@ -88,7 +88,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-7
     span:
-    - front
+    - body
     - 2555
     - 2555
   label: 志南記
@@ -98,7 +98,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-8
     span:
-    - front
+    - body
     - 3881
     - 3881
   label: 清欲歌
@@ -108,7 +108,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-9
     span:
-    - front
+    - body
     - 4236
     - 4236
   label: 大佑書帖
@@ -118,7 +118,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-10
     span:
-    - front
+    - body
     - 4238
     - 4238
   label: 陸放翁與明老改正寒山子詩帖
@@ -128,7 +128,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-11
     span:
-    - front
+    - body
     - 4322
     - 4322
   label: 朱晦庵與南老索寒山子詩帖
@@ -138,7 +138,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-12
     span:
-    - front
+    - body
     - 4588
     - 4588
   label: 淨戒序
@@ -148,7 +148,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0385_B_000-mulu-13
     span:
-    - front
+    - body
     - 4896
     - 4896
   label: 梵琦序
@@ -214,7 +214,7 @@ table_of_contents:
   label: 新刻緣起
   type: mulu
   level: 1
-hash: sha256:3cb940ca2748a5c2bd18b42304827e81653149ca10a87166f83be1bf313c600e
+hash: sha256:b3446713c140374f15822f48334a75dfb57bc504f7fb75076f188294339ffbc7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
